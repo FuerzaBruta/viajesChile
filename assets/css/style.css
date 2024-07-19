@@ -16,9 +16,34 @@ height: 30px;
     font-size: 30px;
 }
 
-p{
-    text-align: center;
+div h2{
     color: white;
+    
+}
+
+hr{
+    color: beige;
+}
+body{
+    background-color: black;
+}
+
+.navbar-brand{
+    color: white;
+}   
+
+i{
+background-color: aqua;
+height: 30px;
+}
+
+.icono{
+    color: white;
+    font-size: 30px;
+}
+
+p{
+    
 }
 
 div h2{
@@ -26,4 +51,19 @@ div h2{
     text-align: center;
     font-size: 25px;
     margin-top: 30px;
+}
+
+.altoTarjeta{
+    height: 60%;
+}
+
+
+.fondoCeleste{
+    background-color: rgb(48, 171, 199);
+}
+
+.colorTexto{
+    text-align: center;
+    color: white;
+    text-align: start;
 }
